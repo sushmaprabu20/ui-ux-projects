@@ -52,4 +52,4 @@ Freelance Graphic Designer
 
 Responsible for concept, visual design, and final poster delivery
 
-**Figma Prototype link**(https://www.figma.com/proto/qW4txywef18RXyNiUPJYgF/kurtooshhh?node-id=10-3&p=f&t=a8E2CwkWwVLBW8GJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+[**Figma Prototype link**](https://www.figma.com/proto/qW4txywef18RXyNiUPJYgF/kurtooshhh?node-id=10-3&p=f&t=a8E2CwkWwVLBW8GJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
